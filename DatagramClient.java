@@ -3,6 +3,8 @@
 Sends that message to the specified Server. Then attempts to receive a message back 
 from the Server, on which it will print that message out.
 
+Some code provided by proffessor.
+
 @author Nathan Cale Wichman
 @Version September 2018
 ************************************************************************************/
